@@ -85,12 +85,21 @@ I used the username "lab user" and the password I created to log in.
 </p>
 <br />
 
+<p>
+<img src="https://imgur.com/o7lXmMn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+6. Within the VM, I opened a web browser and went to whatismyipaddress.com.
+I noted down the public IP address and the location, which matched the region I selected for the VM.
+</p>
+<br />
+
 
 <p>
 <img src="https://imgur.com/YDZhnYJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-6. On my local computer, I went to Proton VPN and created a free account.
+7. On my local computer, I went to Proton VPN and created a free account.
 </p>
 <br />
 
@@ -98,7 +107,7 @@ I used the username "lab user" and the password I created to log in.
 <img src="https://imgur.com/ZWvMPix.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-7. In my Azure VM, I opened a web browser and went to Proton VPN's download page.
+8. In my Azure VM, I opened a web browser and went to Proton VPN's download page.
 I downloaded and installed the Windows Proton VPN client.
 </p>
 <br />
@@ -107,7 +116,7 @@ I downloaded and installed the Windows Proton VPN client.
 <img src="https://imgur.com/Ika7sSL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-8. I opened the Proton VPN app within my VM.
+9. I opened the Proton VPN app within my VM.
 I logged in with my Proton VPN account credentials.
 </p>
 <br />
@@ -116,7 +125,7 @@ I logged in with my Proton VPN account credentials.
 <img src="https://imgur.com/yu7eZnx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-9. With the VPN connected, I refreshed the whatismyipaddress.com page within my VM.
+10. With the VPN connected, I refreshed the whatismyipaddress.com page within my VM.
 I noted that the IP address and location now reflected the VPN endpoint in Tokyo, Japan.
 </p>
 <br />
@@ -126,7 +135,7 @@ I noted that the IP address and location now reflected the VPN endpoint in Tokyo
 <img src="https://imgur.com/5o0lrH2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-10. With the VPN connected, I refreshed the whatismyipaddress.com page within my VM.
+11. With the VPN connected, I refreshed the whatismyipaddress.com page within my VM.
 I noted that the IP address and location now reflected the VPN endpoint in Tokyo, Japan.
 </p>
 <br />
@@ -135,13 +144,6 @@ I noted that the IP address and location now reflected the VPN endpoint in Tokyo
 
 
 
-<p>
-<img src="https://imgur.com/o7lXmMn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-8. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 
 
