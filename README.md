@@ -36,23 +36,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://imgur.com/fymZz54.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/yu7eZnx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-2. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/5o0lrH2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-3. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1. I opened my web browser on my personal computer.
+I navigated to whatismyipaddress.com.
+I noted down the public IP address and the city that was displayed.
+I recorded this information in a notepad file.
 </p>
 <br />
 
@@ -60,23 +47,31 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://imgur.com/c3qNDfQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-4. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2. I went to the Microsoft Azure portal and logged in with my Azure account.
+In the Azure portal, I clicked on Create a resource.
+I searched for Virtual Machine and selected Create.
+I chose a region outside of my current location (e.g., East US since I'm in West US).
+Under the Image section, I selected Windows 10.
+I set the Username to "lab user" and created a strong password.
+I completed the setup and clicked Review + create. Once validated, I clicked Create.
 </p>
 <br />
+
 
 <p>
 <img src="https://imgur.com/qunkdIj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3. Once the VM was created, I navigated to the Virtual Machine section in the Azure portal.
 </p>
 <br />
+
 
 <p>
 <img src="https://imgur.com/tkL7bXu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-6. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+4. I found the public IP address of the VM.
 </p>
 <br />
 
@@ -84,23 +79,18 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://imgur.com/U2jLgfN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-7. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+5. I opened Microsoft Remote Desktop (or on a PC, I would open Remote Desktop Connection).
+I entered the public IP address of my VM and clicked Connect.
+I used the username "lab user" and the password I created to log in.
 </p>
 <br />
 
-<p>
-<img src="https://imgur.com/o7lXmMn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-8. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 <p>
 <img src="https://imgur.com/YDZhnYJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-9. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+6. On my local computer, I went to Proton VPN and created a free account.
 </p>
 <br />
 
@@ -108,7 +98,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://imgur.com/ZWvMPix.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-10. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+7. In my Azure VM, I opened a web browser and went to Proton VPN's download page.
+I downloaded and installed the Windows Proton VPN client.
 </p>
 <br />
 
@@ -116,7 +107,39 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://imgur.com/Ika7sSL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-11. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+8. I opened the Proton VPN app within my VM.
+I logged in with my Proton VPN account credentials.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/yu7eZnx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+9. With the VPN connected, I refreshed the whatismyipaddress.com page within my VM.
+I noted that the IP address and location now reflected the VPN endpoint in Tokyo, Japan.
+</p>
+<br />
+
+
+<p>
+<img src="https://imgur.com/5o0lrH2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+10. With the VPN connected, I refreshed the whatismyipaddress.com page within my VM.
+I noted that the IP address and location now reflected the VPN endpoint in Tokyo, Japan.
+</p>
+<br />
+
+
+
+
+
+<p>
+<img src="https://imgur.com/o7lXmMn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+8. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
